@@ -1,11 +1,6 @@
 title: Ulbrich Frauendorf
-
-logo: ulbrich.jpg
-
 description: Senior Software Engineer - Building innovative solutions with precision and passion.
-
-show_downloads: false
-
+show_downloads: true
 theme: jekyll-theme-leap-day
 
 #remote_theme: pages-themes/hacker@v0.2.0
