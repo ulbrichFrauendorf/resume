@@ -6,7 +6,7 @@ description: Senior Software Engineer - Building innovative solutions with preci
 
 show_downloads: true # Fix spelling
 
-remote_theme: tarrex/online-resume
+remote_theme: jekyll-theme-minimal
 
 plugins: 
   - jekyll-seo-tag # Add SEO plugin
