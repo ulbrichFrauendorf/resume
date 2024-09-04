@@ -1,15 +1,15 @@
 title: Ulbrich Frauendorf
 
-logo: 1.png # Use a relative path to logo image
+logo: ulbrich.jpg
 
-description: Senior Software Engineer - Building innovative solutions with precision and passion. # Fix hyphenation
+description: Senior Software Engineer - Building innovative solutions with precision and passion.
 
-show_downloads: true # Fix spelling
+show_downloads: false
 
 remote_theme: pages-themes/hacker@v0.2.0
 
 plugins: 
   - jekyll-seo-tag
   - jekyll-remote-theme
-  
+
 email: ulbrich.frauendorf@gmail.com # Allow visitors to contact you

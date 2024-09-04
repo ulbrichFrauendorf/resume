@@ -1,5 +1,6 @@
-# Ulbrich Frauendorf
-Senior Software Engineer | Full Stack Dev
+---
+layout: default
+---
 
 ## Summary
 Experienced Software Engineer with a proven track record in designing, installing, testing, and maintaining robust software systems. Possesses deep expertise in managing the full software development lifecycle, from concept to deployment. Demonstrated ability to solve complex problems and deliver high-quality software solutions, whether working independently or as an integral part of a collaborative team. Committed to continuous improvement and innovation in software engineering practices.
