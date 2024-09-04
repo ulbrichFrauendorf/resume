@@ -2,17 +2,26 @@
 layout: default
 ---
 
+# Ulbrich Frauendorf
 
 ## Summary
 Experienced Software Engineer with a proven track record in designing, installing, testing, and maintaining robust software systems. Possesses deep expertise in managing the full software development lifecycle, from concept to deployment. Demonstrated ability to solve complex problems and deliver high-quality software solutions, whether working independently or as an integral part of a collaborative team. Committed to continuous improvement and innovation in software engineering practices.
 
 ## Skills
+*Programming Languages*
 ```
-Programming Languages:
 C#, C++, SQL, Typescript, Javascript, HTML
 ```
-- Backend Frameworks: .Net Framework, .Net Core
-- Web Frameworks: Angular, Vue.js
+*Backend Frameworks*
+```
+.Net Framework, .Net Core
+```
+*Web Frameworks*
+```
+Angular
+Vue.js
+```
+
 - Databases: MSSQL, MySQL, MongoDB
 - Tools & Methods: Azure, Devops, Git, Kanban, Agile, TDD, Clean Architecture
 
