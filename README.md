@@ -13,7 +13,8 @@ Experienced Software Engineer with a proven track record in designing, installin
 
 ## Experience
 
-###Entelect Software (Pty) Ltd. #####_(July 2022 - Present)_
+### Entelect Software (Pty) Ltd. 
+_(July 2022 - Present)_
 
 **Senior Software Engineer**
 - test
