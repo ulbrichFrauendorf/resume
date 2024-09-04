@@ -1,14 +1,1 @@
-title: Name  # You can add your name here
-
-logo: 1.png # Use a relative path to logo image 
-
-description: Data science and AI in agriculture - where bytes and botany blend for a better world. # Fix hyphenation 
-
-show_downloads: true # Fix spelling
-
-theme: jekyll-theme-minimal 
-
-plugins:
-  - jekyll-seo-tag # Add SEO plugin
-
-email: ulbrich.frauendorf@gmail.com # Allow visitors to contact you
+Experienced Software Engineer with a proven track record in designing, installing, testing, and maintaining robust software systems. Possesses deep expertise in managing the full software development lifecycle, from concept to deployment. Demonstrated ability to solve complex problems and deliver high-quality software solutions, whether working independently or as an integral part of a collaborative team. Committed to continuous improvement and innovation in software engineering practices.
