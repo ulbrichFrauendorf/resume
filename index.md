@@ -10,27 +10,31 @@ Experienced Software Engineer with a proven track record in designing, installin
 ## Skills
 
 ```js
-var programmingLanguages = [
-    C#,
-    C++,
-    SQL,
-    Ts,
-    Js,
-    HTML
-]
-```
-*Backend Frameworks*
-```
-.Net Framework, .Net Core
-```
-*Web Frameworks*
-```
-Angular
-Vue.js
-```
+const programmingLanguages = [
+    "C#", "C++", "SQL",
+    "Ts", "Js", "HTML"
+];
 
-- Databases: MSSQL, MySQL, MongoDB
-- Tools & Methods: Azure, Devops, Git, Kanban, Agile, TDD, Clean Architecture
+const backendFrameworks = [
+    ".Net Core", ".Net Framework"
+];
+
+const webFrameworks = [
+    "Angular", "Vue.js", "Razor",
+    "JQuery"
+];
+
+const databases = [
+    "MSSQL", "MySQL", "SQL"
+];
+
+const tools = [
+    "Azure", "Devops", "Git",
+    "Miro"
+];
+
+let prodArchitecture = "Clean is Best";
+```
 
 ## Experience
 
