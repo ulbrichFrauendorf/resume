@@ -6,8 +6,10 @@ description: Senior Software Engineer - Building innovative solutions with preci
 
 show_downloads: true # Fix spelling
 
-remote_theme: jekyll-theme-time-machine
+remote_theme: pages-themes/hacker@v0.2.0
 
 plugins: 
-  - jekyll-seo-tag # Add SEO plugin
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+  
 email: ulbrich.frauendorf@gmail.com # Allow visitors to contact you
