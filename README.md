@@ -14,19 +14,19 @@ Experienced Software Engineer with a proven track record in designing, installin
 ## Experience
 **Rhapsodys** (January 2004 – July 2017)   
 General Manager
-▪ Managed a Staff Compliment of 80+ Employees.
-▪ Created and Implemented Inventory Control Systems Web Application, Integrated with Micros point of sale System.
-▪ All day-to-day Accounting Tasks.
+- Managed a Staff Compliment of 80+ Employees.
+- Created and Implemented Inventory Control Systems Web Application, Integrated with Micros point of sale System.
+- All day-to-day Accounting Tasks.
 
 **Sage Group Plc.** (August 2017 - June 2022)
 Software Engineer
-▪ Sage300 Integrations - Workday/ SAPS.
-▪ Created and maintain web-based CMS, CRM specifically used by the Outsourcing Department, Fully Integrated with Microsoft Graph (SharePoint, Outlook, Power BI)
-▪ Developed Automation framework for running reports on SAGE300 and organizing files in folder structures or automated file uploads To ADP SPM as well as to customer SFTP sites.
-▪ All custom Reports PREMIER (ODBC) And SAGE300 (SQL) for outsourcing Clients.
-▪ Created Custom Report Writer Tools used by Technically unskilled employees.
-▪ Manage and maintain various repos on the Azure DevOps platform. (Code Reviews etc.)
-▪ Create and maintain Automated Test Tools for Premier using Coded UI Framework.
+- Sage300 Integrations - Workday/ SAPS.
+- Created and maintain web-based CMS, CRM specifically used by the Outsourcing Department, Fully Integrated with Microsoft Graph (SharePoint, Outlook, Power BI)
+- Developed Automation framework for running reports on SAGE300 and organizing files in folder structures or automated file uploads To ADP SPM as well as to customer SFTP sites.
+- All custom Reports PREMIER (ODBC) And SAGE300 (SQL) for outsourcing Clients.
+- Created Custom Report Writer Tools used by Technically unskilled employees.
+- Manage and maintain various repos on the Azure DevOps platform. (Code Reviews etc.)
+- Create and maintain Automated Test Tools for Premier using Coded UI Framework.
 
 **Entelect Software (Pty) Ltd.** (July 2022 - Present)
 Senior Software Engineer
