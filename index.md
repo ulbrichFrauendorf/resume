@@ -8,9 +8,16 @@ layout: default
 Experienced Software Engineer with a proven track record in designing, installing, testing, and maintaining robust software systems. Possesses deep expertise in managing the full software development lifecycle, from concept to deployment. Demonstrated ability to solve complex problems and deliver high-quality software solutions, whether working independently or as an integral part of a collaborative team. Committed to continuous improvement and innovation in software engineering practices.
 
 ## Skills
-*Programming Languages*
-```
-C#, C++, SQL, Typescript, Javascript, HTML
+
+```js
+var programmingLanguages = [
+    C#,
+    C++,
+    SQL,
+    Ts,
+    Js,
+    HTML
+]
 ```
 *Backend Frameworks*
 ```
