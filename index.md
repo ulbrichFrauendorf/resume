@@ -36,10 +36,15 @@ const tools = [
 let prodArchitecture = "Clean is Best";
 ```
 
+## Education
+**Bachelor Of Computer Science** | University of South-Africa | _September 2017_
+
+Graduated Cum Laude.
+
 ## Experience
 
-### Entelect Software (Pty) Ltd. 
-**Senior Software Engineer** _(July 2022 - Present)_
+**Entelect Software (Pty) Ltd.**
+Senior Software Engineer _(July 2022 - Present)_
 - Under Construction
 
 ### Sage Group Plc.
@@ -118,7 +123,3 @@ Due to an increased need for customized reporting from our clients, a UI tool wa
 -	Coded a UI where custom reports could be built by system users
 -	Created a middleware interface with custom classes to extract all payroll information
 -	Created a set of tools to allow users to set up the creation of general ledgers for their payrolls.
-
-## Education
-**Bachelor Of Computer Science** | University of South-Africa | September 2017
-Graduated Cum Laude.
