@@ -8,5 +8,6 @@ show_downloads: true # Fix spelling
 
 theme: jekyll-theme-minimal
 
-plugins: jekyll-seo-tag # Add SEO plugin
+plugins: 
+  - jekyll-seo-tag # Add SEO plugin
 email: ulbrich.frauendorf@gmail.com # Allow visitors to contact you
