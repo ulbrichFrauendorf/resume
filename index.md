@@ -43,29 +43,47 @@ Graduated Cum Laude.
 
 ## Experience
 
-**Entelect Software (Pty) Ltd.**
-Senior Software Engineer _(July 2022 - Present)_
-- Under Construction
+### Entelect Software (Pty) Ltd
+**Senior Software Engineer** _(July 2022 - Present)_
+- Working in a multi system architecture based on Azure Cloud as well as on premise hosted web applications.
+- Lead the development of features across a variety of tech stacks, including .NET (Framework & Core), JavaScript, Angular, and Java Spring.
+- Drive architectural decisions and contribute to the analysis and design of new software artefacts.
+- Mentor junior engineers, providing training and support to help accelerate their career growth.
+- Actively involved in performance reviews, providing feedback to team members and management.
+
+_Suggestions to flesh out:_
+- Include specific projects or systems you've worked on.
+- Mention any key accomplishments or performance improvements.
+- Highlight specific tools or frameworks (e.g., Angular, SignalR, Azure) that you leveraged in key projects.
 
 ### Sage Group Plc.
 **Software Engineer** _(August 2017 - June 2022)_
-- Sage300 Integrations - Workday/ SAPS.
-- Created and maintain web-based CMS, CRM specifically used by the Outsourcing Department, Fully Integrated with Microsoft Graph (SharePoint, Outlook, Power BI)
-- Developed Automation framework for running reports on SAGE300 and organizing files in folder structures or automated file uploads To ADP SPM as well as to customer SFTP sites.
-- All custom Reports PREMIER (ODBC) And SAGE300 (SQL) for outsourcing Clients.
-- Created Custom Report Writer Tools used by Technically unskilled employees.
-- Manage and maintain various repos on the Azure DevOps platform. (Code Reviews etc.)
-- Create and maintain Automated Test Tools for Premier using Coded UI Framework.
+- Developed and maintained CMS and CRM systems for the Outsourcing Department, integrating Microsoft Graph (SharePoint, Outlook, Power BI).
+- Automated file uploads and report generation using Sage 300 and ADP APIs.
+- Created custom reporting tools for non-technical users and managed Azure DevOps repositories.
 
 ### Rhapsodys
-
 **General Manager** _(January 2004 – July 2017)_
-- Managed a Staff Compliment of 80+ Employees.
-- Created and Implemented Inventory Control Systems Web Application, Integrated with Micros point of sale System.
-- All day-to-day Accounting Tasks.
+- Managed 80+ staff and implemented inventory control systems integrated with Micros POS.
 
 
 ## Projects
+
+**Accounting and payroll integrations**
+- In charge of creating and maintaining a solution to integrate Deathstar with our international branches payroll software. Xero, Nmbrs.
+- Lead the team to implement local accounting and invoicing from Deathstar to Sage Intacct Accounting software.
+- 
+**Internal ERP Solution (DeathStar)**
+- Transformed legacy DeathStar system, by implementing a new Angular application to run in tandem with old MVC front-end.
+- Refactor architecture to conform to proper CLEAN practices.
+- Constant maintenace to keep productivity of the company up.
+- Various Security enhancements added after the internal server was hacked.
+
+**Candidate Tracker**
+- Maintained and added features to old mvc site that 
+
+**Employee Management Portal**
+
 ### Outsourcing ERP Platform
 
 Outsourcing ERP Platform required for customer management. Logging hours spent on clients/ billing/ numerous KPI reports
