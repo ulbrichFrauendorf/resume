@@ -5,7 +5,7 @@ layout: default
 # Ulbrich Frauendorf
 
 ## Summary
-Experienced Software Engineer with a proven track record in designing, installing, testing, and maintaining robust software systems. Possesses deep expertise in managing the full software development lifecycle, from concept to deployment. Demonstrated ability to solve complex problems and deliver high-quality software solutions, whether working independently or as an integral part of a collaborative team. Committed to continuous improvement and innovation in software engineering practices.
+Software Engineer with extensive experience in designing, developing, and maintaining robust software solutions. Skilled in managing the complete SDLC from concept to deployment, with a strong focus on problem-solving and delivering high-quality systems. Excels in both independent and collaborative team environments, with a commitment to continuous learning and innovation.
 
 ## Skills
 
@@ -45,17 +45,20 @@ Graduated Cum Laude.
 
 **Entelect Software (Pty) Ltd.**
 Senior Software Engineer _(July 2022 - Present)_
-- Under Construction
+- Lead the development of features across a variety of tech stacks, including .NET (Framework & Core), JavaScript, Angular, and Java Spring.
+- Drive architectural decisions and contribute to the analysis and design of new software artefacts.
+- Mentor junior engineers, providing training and support to help accelerate their career growth.
+- Actively involved in performance reviews, providing feedback to team members and management.
+- Maintained a complex Cloud environment that hosts all Web applications and connects legacy on premise VMs with hosted sites and resources, working with infrastructure team to ensure security accross the entire environment. (Part of the team to beef up security after a hacking incedent in 2023)
+
 
 ### Sage Group Plc.
 **Software Engineer** _(August 2017 - June 2022)_
 - Sage300 Integrations - Workday/ SAPS.
-- Created and maintain web-based CMS, CRM specifically used by the Outsourcing Department, Fully Integrated with Microsoft Graph (SharePoint, Outlook, Power BI)
-- Developed Automation framework for running reports on SAGE300 and organizing files in folder structures or automated file uploads To ADP SPM as well as to customer SFTP sites.
-- All custom Reports PREMIER (ODBC) And SAGE300 (SQL) for outsourcing Clients.
-- Created Custom Report Writer Tools used by Technically unskilled employees.
-- Manage and maintain various repos on the Azure DevOps platform. (Code Reviews etc.)
-- Create and maintain Automated Test Tools for Premier using Coded UI Framework.
+- Developed and maintained CMS and CRM systems for the Outsourcing Department, integrating Microsoft Graph (SharePoint, Outlook, Power BI).
+- Automated file uploads and report generation using Sage 300 and ADP APIs.
+- Created custom reporting tools for non-technical users and managed Azure DevOps repositories.
+
 
 ### Rhapsodys
 
@@ -66,60 +69,39 @@ Senior Software Engineer _(July 2022 - Present)_
 
 
 ## Projects
-### Outsourcing ERP Platform
 
-Outsourcing ERP Platform required for customer management. Logging hours spent on clients/ billing/ numerous KPI reports
-- Solely responsible for the complete SDLC of the web-based project. Using SOLID principles throughout.
--	Set up the IIS server on local intranet.
--	Implemented Azure AD authentication and authorization policies to secure.
--	Fully integrated with Legacy sharepoint system, as a phased approach was used to move over to the new platform
--	Implemented SignalR hubs to display process queues used for Client and internal Tools
--	Implemented a SignalR live support chat, used by the compliance team.
--	Created framework for auto creation of razor views from Entity Framework Data models. (No scaffolding)
--	Coded PowerShell scripts for assigning App Roles, Delegated Permissions, and Setting up Oauth2 Tokens to grant Implicit permissions flow.
+### DeathStar, Kamino
+Enhanced Entelect’s internal ERP by upgrading legacy architecture and integrating with international payroll and finance systems, including Xero, Sage Intacct, Exact (NL), and Salariszaken (NL).
+
+### Events (Planning and CMS)
+Developed new features for Entelect’s event management system, handling event scheduling, attendance tracking, and multimedia content hosted on SharePoint.
+
+### Voyager
+Improved Entelect’s internal project management system for tracking software projects, SDLC processes, and ISO compliance documentation.
+
+### Comlink
+Enhanced the Comlink service, utilizing Azure Service Bus to sync data across systems without impacting performance, reducing API call overhead for DeathStar ERP.
+
+### Candidate Tracker
+Enhanced Entelect’s candidate management system for tracking interview and hiring processes, integrating with Seek (Australia) and LinkedIn via a browser extension.
+
+### Outsourcing ERP Platform
+Led the development of an ERP platform for client management, billing, and KPI reports. Integrated legacy systems, secured with Azure AD, and implemented real-time processing with SignalR and live chat support.
 
 ### Automated Test Framework
-
-Repurposed Sage automated Test framework to facilitate Automating payroll functions and integrate with ADP APIs. Problem: Sage Premier (Legacy COBOL product) is unable to interface via API and most of functionality
--	Setting up Hyper-V VM’s to run UI functions on Premier Platform
--	Coding Coded-UI Test tools to run Reporting and Payroll functions.
--	Maintaining Test tools as new statutory requirements constantly changes the UI interface for built in parameters within the system.
--	Coordinated with Automation Test engineers Kanban used to assign tasks.
--	Project repository managed by subversion and CI Pipelines. 
+Repurposed Sage's test framework to automate payroll processes, including reporting, with Coded-UI test tools and ADP API integration.
 
 ### Mail Archiving and Data Access Control Service
-
-Due to the nature of Payroll strict security protocols are in place for accessing sensitive customer information.
--	Created standalone windows service to archive and encrypt all employees’ emails (incoming and outgoing) containing information from any of our clients.
--	Created a standalone windows service to automate access control to individual client folders to be accessible only to the Account manager and payroll administrator assigned to specific clients.
--	Added a compliance user interface on the web platform fully integrated with standalone windows services, for managing all the above, with detailed error logs and automated email notifications when system processes failed.
+Developed a service to archive, encrypt, and control access to sensitive payroll emails, with a compliance UI for error monitoring and automated alerts.
 
 ### Payroll Integrations (SAP, Workday)
-
-Clients needed outbound integration between SAGE300/ Premier payroll systems and Third-party HR Suites.
--	Coded a middleware on the CRM platform, to facilitate integration, between Payroll (Hosted in a private Citrix environment) and public APIs of third-party software.
--	Middleware also implemented interfaces for SFTP integrations where information was sent as encrypted XML/ JSON Files over certificate based encrypted connections.
--	Implemented encrypted JSON Mappings of allowed fields to be integrated per client.
--	Maintained a database for logging all transactions and generate quarterly security reports to management regarding the flow of information through the pipelines
+Built middleware to integrate SAGE300/Premier payroll systems with third-party HR software, supporting encrypted API and SFTP transactions.
 
 ### SEPA Credit Transfer ISO 20022 Payments
-
-International banks adopt standard XML schema for initiating money transfers (Local banks have also started adopting this method) for Payroll and Third-Party payments. Sage has no export functionality for these formats.
--	Coded a generic interface for creating PAIN.001.001.03 XML files to different banks.
--	Interface is created using the options design pattern in conjunction with abstract factory pattern to produce different templates used by individual banks based on the XML schema.
--	Automated the creation and delivery of these bank files.
+Developed an XML generation tool for SEPA payroll payments, automating the creation and delivery of bank files for multiple banking standards.
 
 ### Client Billable Hours Tracker
-
-A simple WPF client installed for all employees, that uses Native windows User32 Libraries to capture time spent working on Clients, to ensure overall profitability, while still maintaining company integrity, by not collecting information on private usage of company laptop.
-
--	Designed and Coded application to collect usage data from system users about Time spent on Payroll systems only.
--	Implemented API to integrate information pushed to SQL database service and integrated into the local CRM Web Application.
--	Generated Reporting tools to report on customer and user profitability. (Billing vs Time spent)
+Created a WPF app to track time spent on client work, integrated with CRM for reporting on user and customer profitability.
 
 ### Generic Payroll Report Builder
-
-Due to an increased need for customized reporting from our clients, a UI tool was developed so any payroll information could be built up in a visual way by normal system users.
--	Coded a UI where custom reports could be built by system users
--	Created a middleware interface with custom classes to extract all payroll information
--	Created a set of tools to allow users to set up the creation of general ledgers for their payrolls.
+Built a custom report builder UI for payroll data, allowing users to visually create and generate reports and general ledgers.
