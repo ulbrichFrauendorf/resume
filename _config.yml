@@ -1,12 +1,13 @@
 title: Ulbrich Frauendorf
 description: Senior Software Engineer - Building innovative solutions with precision and passion.
 show_downloads: true
-theme: jekyll-theme-leap-day
+#theme: jekyll-theme-leap-day
 
 #remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: pages-themes/midnight@v0.2.0
 
 plugins: 
   - jekyll-seo-tag
- # - jekyll-remote-theme
+  - jekyll-remote-theme
 
 email: ulbrich.frauendorf@gmail.com # Allow visitors to contact you
