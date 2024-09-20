@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Ulbrich Frauendorf
-
 ## Summary
 Software Engineer with extensive experience in designing, developing, and maintaining robust software solutions. Skilled in managing the complete SDLC from concept to deployment, with a strong focus on problem-solving and delivering high-quality systems. Excels in both independent and collaborative team environments, with a commitment to continuous learning and innovation.
 
@@ -43,7 +41,7 @@ Graduated Cum Laude.
 
 ## Experience
 
-**Entelect Software (Pty) Ltd.**
+### Entelect Software (Pty) Ltd.
 Senior Software Engineer _(July 2022 - Present)_
 - Lead the development of features across a variety of tech stacks, including .NET (Framework & Core), JavaScript, Angular, and Java Spring.
 - Drive architectural decisions and contribute to the analysis and design of new software artefacts.
